@@ -1,8 +1,8 @@
 # Next.js Turbopack Monorepo
 
 A modern development setup featuring Next.js with Turbopack bundler in a Turborepo monorepo structure.
-Note=> need develop to make it very well if you want please fork it and I try to update it every day 🙏
-## Features
+- Note=> need develop to make it very well if you want please fork it and I try to update it every day 🙏
+## Featuresk
 
 - ⚡ **Turbopack**: Next.js's new Rust-based bundler for 10x faster development
 - 📦 **Monorepo**: Turborepo for efficient workspace management and caching
